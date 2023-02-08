@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-WeatherPy/api_keys.py
+api_keys.py
 
 
 # C extensions
